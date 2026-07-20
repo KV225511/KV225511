@@ -181,20 +181,33 @@ Applied AI / ML
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KV225511&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KV225511&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=8" alt="Top languages"/>
+<img
+  height="170"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KV225511&theme=github_dark"
+  alt="GitHub statistics"
+/>
 
-<br/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=KV225511&hide_border=true&background=0D1117&stroke=38BDF8&ring=22D3EE&fire=38BDF8&currStreakLabel=38BDF8&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideLabels=C9D1D9" alt="GitHub streak"/>
+<img
+  height="170"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KV225511&theme=github_dark"
+  alt="Top languages"
+/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KV225511&bg_color=0D1117&color=38BDF8&line=22D3EE&point=FFFFFF&area=true&area_color=1D4ED8&hide_border=true" alt="Contribution graph"/>
+<img
+  width="95%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KV225511&theme=github_dark"
+  alt="GitHub contribution details"
+/>
 
-<br/>
+<br/><br/>
 
-<img width="95%" src="https://raw.githubusercontent.com/KV225511/KV225511/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+<img
+  width="95%"
+  src="https://raw.githubusercontent.com/KV225511/KV225511/output/github-contribution-grid-snake-dark.svg"
+  alt="Contribution snake"
+/>
 
 </div>
 
