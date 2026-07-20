@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<a href="https://github.com/KV225511">
+<a href="https://potfolio-krissh-9hez.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Engineering+software+that+survives+real+users;Turning+computer+vision+into+human-computer+interaction;Building+ML+systems+around+real+engineering+constraints;Software+engineering+first.+Intelligence+where+it+matters." alt="Typing introduction"/>
 </a>
 
@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/krissh-verma-b6a71a28a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:krisshverma25@gmail.com"><img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://leetcode.com/u/krisshverma25/"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-  <a href="https://github.com/KV225511"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://potfolio-krissh-9hez.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <img src="https://komarev.com/ghpvc/?username=KV225511&label=Profile+Views&color=2563EB&style=for-the-badge" alt="Profile views"/>
 </p>
 
@@ -108,7 +108,7 @@ My approach is simple: understand the constraint, build the system, test it unde
 
 `Python` · `MediaPipe` · `OpenCV` · `PyAutoGUI` · `pycaw` · `pystray` · `psutil`
 
-[View repository](https://github.com/KV225511/NullPointerException)
+[Explore this project on my portfolio](https://potfolio-krissh-9hez.vercel.app/)
 
 A webcam-based human-computer interaction system designed to replace conventional mouse input through real-time hand-landmark tracking.
 
@@ -125,7 +125,7 @@ A webcam-based human-computer interaction system designed to replace conventiona
 
 `Python` · `Scikit-learn` · `SVM` · `Autoencoders` · `Mahalanobis Distance`
 
-[View repository](https://github.com/RishiChalana/DieselEngineLeakDetection)
+[Explore this project on my portfolio](https://potfolio-krissh-9hez.vercel.app/)
 
 An ML-assisted diagnostic pipeline for detecting airflow leaks in diesel engines operating under stable load.
 
@@ -142,7 +142,7 @@ An ML-assisted diagnostic pipeline for detecting airflow leaks in diesel engines
 
 `Next.js` · `TypeScript` · `MongoDB` · `Tailwind CSS` · `Vercel`
 
-[View repository](https://github.com/KV225511/Esummit25) · [E-Cell VIT](https://github.com/ecellvit)
+[Explore this project on my portfolio](https://potfolio-krissh-9hez.vercel.app/)
 
 A team-built event platform for VIT’s flagship entrepreneurship fest, designed for high-concurrency registrations and live participation.
 
@@ -208,7 +208,7 @@ When I am not coding, I am usually gaming, learning video-editing techniques or 
 
 <a href="https://www.linkedin.com/in/krissh-verma-b6a71a28a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:krisshverma25@gmail.com"><img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/KV225511"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://potfolio-krissh-9hez.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://leetcode.com/u/krisshverma25/"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 
 <br/><br/>
