@@ -17,7 +17,6 @@
   <a href="mailto:krisshverma25@gmail.com"><img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://leetcode.com/u/krisshverma25/"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
   <a href="https://potfolio-krissh-9hez.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <img src="https://komarev.com/ghpvc/?username=KV225511&label=Profile+Views&color=2563EB&style=for-the-badge" alt="Profile views"/>
 </p>
 
 </div>
